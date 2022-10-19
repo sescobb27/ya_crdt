@@ -7,3 +7,5 @@ Build
 -----
 
     $ rebar3 compile
+
+learning from: https://github.com/basho/riak_dt
